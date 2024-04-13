@@ -1,7 +1,7 @@
 ---
 title: CompletableFuture的使用
 date: 2023-08-10 12:17:39
-cover: ../img/posts/2023-08-14-自定义SpringBoot-Starter/cover.jpg
+cover: ../img/Java/Thread/Thread.svg
 tags: [ Java,并发,CompletableFuture ]
 categories:
   - Java
