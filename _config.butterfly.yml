@@ -232,10 +232,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/alisinngai
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: This is Alisinngai Lynn Blog
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -703,16 +703,21 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 clickShowText:
-  enable: false
+  enable: true
   text:
-    # - I
-    # - LOVE
-    # - YOU
+    - I
+    - LOVE
+    - YOU
+    - Java 
+    - Node.JS
+    - Vue
+    - Blog 
+
   fontSize: 15px
   random: false
   mobile: false
